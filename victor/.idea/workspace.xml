@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="victor" targetName="victor" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b383bb77-75ee-4b47-8782-45759b6bc8b0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1XwsWNb28aJDd4H5EgwkOHdTkP0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunManager">
+    <configuration name="victor" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="victor" TARGET_NAME="victor" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="victor" RUN_TARGET_NAME="victor">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b383bb77-75ee-4b47-8782-45759b6bc8b0" name="Default Changelist" comment="" />
+      <created>1581968521512</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581968521512</updated>
+      <workItem from="1581968522863" duration="5258000" />
+      <workItem from="1581973994685" duration="3881000" />
+      <workItem from="1582108303751" duration="64000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1587" y="1203" width="657" height="973" key="#com.intellij.ide.util.MemberChooser" timestamp="1581974712519">
+      <screen x="0" y="647" width="3840" height="2076" />
+    </state>
+    <state x="1587" y="1203" width="657" height="973" key="#com.intellij.ide.util.MemberChooser/0.647.3840.2076/3840.0.1620.2880@0.647.3840.2076" timestamp="1581974712519" />
+    <state x="1544" y="1273" width="744" height="834" key="FileChooserDialogImpl" timestamp="1582108347461">
+      <screen x="0" y="647" width="3840" height="2076" />
+    </state>
+    <state x="1544" y="1273" width="744" height="834" key="FileChooserDialogImpl/0.647.3840.2076/3840.0.1620.2880@0.647.3840.2076" timestamp="1582108347461" />
+    <state width="3768" height="573" key="GridCell.Tab.0.bottom" timestamp="1581973974996">
+      <screen x="0" y="647" width="3840" height="2076" />
+    </state>
+    <state width="3768" height="573" key="GridCell.Tab.0.bottom/0.647.3840.2076/3840.0.1620.2880@0.647.3840.2076" timestamp="1581973974996" />
+    <state width="3768" height="573" key="GridCell.Tab.0.center" timestamp="1581973974996">
+      <screen x="0" y="647" width="3840" height="2076" />
+    </state>
+    <state width="3768" height="573" key="GridCell.Tab.0.center/0.647.3840.2076/3840.0.1620.2880@0.647.3840.2076" timestamp="1581973974996" />
+    <state width="3768" height="573" key="GridCell.Tab.0.left" timestamp="1581973974996">
+      <screen x="0" y="647" width="3840" height="2076" />
+    </state>
+    <state width="3768" height="573" key="GridCell.Tab.0.left/0.647.3840.2076/3840.0.1620.2880@0.647.3840.2076" timestamp="1581973974996" />
+    <state width="3768" height="573" key="GridCell.Tab.0.right" timestamp="1581973974996">
+      <screen x="0" y="647" width="3840" height="2076" />
+    </state>
+    <state width="3768" height="573" key="GridCell.Tab.0.right/0.647.3840.2076/3840.0.1620.2880@0.647.3840.2076" timestamp="1581973974996" />
+    <state width="1120" height="357" key="ImportCMakeProjectWizard.bottomPanel" timestamp="1582108352923">
+      <screen x="0" y="647" width="3840" height="2076" />
+    </state>
+    <state width="1120" height="357" key="ImportCMakeProjectWizard.bottomPanel/0.647.3840.2076/3840.0.1620.2880@0.647.3840.2076" timestamp="1582108352923" />
+    <state width="1120" height="833" key="ImportCMakeProjectWizard.topPanel" timestamp="1582108352923">
+      <screen x="0" y="647" width="3840" height="2076" />
+    </state>
+    <state width="1120" height="833" key="ImportCMakeProjectWizard.topPanel/0.647.3840.2076/3840.0.1620.2880@0.647.3840.2076" timestamp="1582108352923" />
+    <state x="1054" y="1057" width="1731" height="1265" key="SettingsEditor" timestamp="1581974077102">
+      <screen x="0" y="647" width="3840" height="2076" />
+    </state>
+    <state x="1054" y="1057" width="1731" height="1265" key="SettingsEditor/0.647.3840.2076/3840.0.1620.2880@0.647.3840.2076" timestamp="1581974077102" />
+  </component>
+</project>
